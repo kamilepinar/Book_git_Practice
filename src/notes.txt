@@ -1,0 +1,8 @@
+We dont share this
+
+this is our personal log
+
+
+you need to put this in git ignore before you start track of it
+
+this file will now never get track
