@@ -1,0 +1,14 @@
+Added this from gitup 
+
+dont do this normally
+
+we are practicing  downward flow
+
+
+we are editing to see pull and update
+
+basicly pull and update are the same they will 
+
+bring from remote to you local 
+
+ if you just do fetch you can compare your local code to with your team codes
